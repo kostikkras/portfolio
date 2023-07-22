@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0113906f.css","mappings":"AAAA,EAGI,sBAFA,SACA,SACA,CAGJ,sBAII,aADA,QACA","sources":["app/styles/reset.scss"],"sourcesContent":["* {\r\n    margin: 0;\r\n    padding: 0;\r\n    box-sizing: border-box;\r\n}\r\n\r\ninput,\r\ntextarea,\r\nselect {\r\n    margin: 0;\r\n    font: inherit;\r\n}\r\n"],"names":[],"sourceRoot":""}
