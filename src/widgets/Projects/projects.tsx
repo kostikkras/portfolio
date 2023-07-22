@@ -54,8 +54,8 @@ export const projects = () => {
 
             stack: ' React, TypeScript, MUI, Javascript, CSS modules ',
             img: Portfolio,
-            mainLink: '',
-            gitLink: '',
+            mainLink: 'https://kostikkras.github.io/portfolio/',
+            gitLink: 'https://github.com/kostikkras/portfolio',
         },
     ];
 
