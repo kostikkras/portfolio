@@ -37,8 +37,8 @@ export const projects = () => {
             gitLink: 'https://github.com/kostikkras/articles-app-154',
         },
         {
-            name: 'Доставка равильного питания',
-            title: 'Доставка равильного питания',
+            name: 'Доставка правильного питания',
+            title: 'Доставка правильного питания',
             description: 'Landing Page для сервиса по доставке правильного питания. ',
 
             stack: ' HTML, CSS, Javascript ',
